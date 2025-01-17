@@ -3,7 +3,7 @@
 ![WGUPS](https://img.shields.io/badge/WGUPS-Routing-blueviolet) ![Python](https://img.shields.io/badge/Python-3.11-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 <video width="100%" controls autoplay>
-  <source src="./public/c950.mp4" type="video/mp4">
+  <source src="https://www.0n.engineer/swiftmd.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
