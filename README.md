@@ -36,8 +36,6 @@ The **WGUPS Routing Program** is a comprehensive solution for optimizing package
 ## Setup
 ### Requirements
 - **Python 3.11** or higher
-- Compatible operating systems: macOS Sonoma 14.2, Windows 10/11, or Linux
-- Optional: **PyCharm 2024.1 (Professional Edition)** for an enhanced development experience
 
 ### Installation
 1. Clone the repository:
@@ -45,11 +43,7 @@ The **WGUPS Routing Program** is a comprehensive solution for optimizing package
     git clone https://github.com/yourusername/wgups-routing.git
     cd wgups-routing
     ```
-2. Install dependencies (if applicable):
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the program:
+2. Run the program:
     ```bash
     python main.py
     ```
@@ -178,11 +172,6 @@ All packages delivered successfully.
 - Introduce a **visual mapping interface** for real-time route visualization.
 - Modularize the codebase for easier updates and maintenance.
 - Explore advanced data structures like **graphs** for enhanced delivery modeling.
-
-
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
