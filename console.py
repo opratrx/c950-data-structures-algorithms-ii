@@ -1,0 +1,53 @@
+"""
+    ,------------------------------------------------------------------------------------------------,
+    |                                                                                                |
+    |                                      CONSOLE COLOR CLASS                                       |
+    |              The class Colors contains the ANSI color codes for the console output.            |
+    |                                                                                                |
+    `------------------------------------------------------------------------------------------------'
+"""
+
+
+class Colors:
+    BLACK = "\033[0;30m"
+    RED = "\033[0;31m"
+    GREEN = "\033[0;32m"
+    BROWN = "\033[0;33m"
+    BLUE = "\033[0;34m"
+    PURPLE = "\033[0;35m"
+    CYAN = "\033[0;36m"
+    ORANGE = "\033[38;5;208m"
+    BOLD_ORANGE = "\x1b[1;31m\033[38;2;243;134;48m"
+    DARK_GREEN = "\033[38;5;22m"
+    TEAL = "\033[38;5;30m"
+    OLIVE_GREEN = "\033[38;5;58m"
+    MAGENTA = "\033[38;5;165m"
+    DEEP_BLUE = "\033[38;5;19m"
+    BRIGHT_WHITE = "\033[38;5;231m"
+    GRAY = "\033[38;5;242m"
+    DARK_RED = "\033[38;5;88m"
+    VIOLET = "\033[38;5;128m"
+    SALMON = "\033[38;5;210m"
+    MINT_GREEN = "\033[38;5;121m"
+    LAVENDER = "\033[38;5;183m"
+    DARK_CYAN = "\033[38;5;37m"
+    LIGHT_GRAY = "\033[0;37m"
+    DARK_GRAY = "\033[1;30m"
+    LIGHT_RED = "\033[1;31m"
+    LIGHT_GREEN = "\033[1;32m"
+    YELLOW = "\033[1;33m"
+    LIGHT_BLUE = "\033[1;34m"
+    LIGHT_PURPLE = "\033[1;35m"
+    LIGHT_CYAN = "\033[1;36m"
+    LIGHT_WHITE = "\033[1;37m"
+    LIGHT_ORANGE = "\033[38;5;215m"
+    LIGHT_GOLD = "\033[38;5;221m"
+    LIGHT_YELLOW = "\033[38;5;226m"
+    BOLD = "\033[1m"
+    FAINT = "\033[2m"
+    ITALIC = "\033[3m"
+    UNDERLINE = "\033[4m"
+    BLINK = "\033[5m"
+    NEGATIVE = "\033[7m"
+    CROSSED = "\033[9m"
+    END = "\033[0m"
