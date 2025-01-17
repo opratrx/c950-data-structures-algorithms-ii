@@ -2,15 +2,14 @@
 
 ![WGUPS](https://img.shields.io/badge/WGUPS-Routing-blueviolet) ![Python](https://img.shields.io/badge/Python-3.11-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
-<video width="100%" controls autoplay>
-  <source src="https://www.0n.engineer/swiftmd.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/8ebb255c-1537-4bd5-afbc-12f279373df1
+
 
 ## Overview
 The **WGUPS Routing Program** is a comprehensive solution for optimizing package deliveries. This project utilizes advanced algorithms and data structures to simulate efficient routing and real-time package tracking. It ensures timely deliveries while meeting all program constraints, providing a scalable and user-friendly system for logistics operations.
 
----
+
 
 ## Features
 - **Optimized Routing**: Uses a Greedy Algorithm for minimal travel time and efficient delivery planning.
@@ -20,7 +19,7 @@ The **WGUPS Routing Program** is a comprehensive solution for optimizing package
 - **User-Friendly Interface**: Simplified navigation for checking statuses, viewing metrics, and managing deliveries.
 - **Cross-Platform Compatibility**: Runs on macOS, Windows, and Linux environments.
 
----
+
 
 ## Table of Contents
 1. [Setup](#setup)
@@ -32,7 +31,7 @@ The **WGUPS Routing Program** is a comprehensive solution for optimizing package
 7. [License](#license)
 8. [Acknowledgments](#acknowledgments)
 
----
+
 
 ## Setup
 ### Requirements
@@ -55,7 +54,7 @@ The **WGUPS Routing Program** is a comprehensive solution for optimizing package
     python main.py
     ```
 
----
+
 
 ## Usage
 1. Launch the program using:
@@ -69,7 +68,7 @@ The **WGUPS Routing Program** is a comprehensive solution for optimizing package
     - Manage truck assignments
 3. Monitor delivery progress and log details for analysis.
 
----
+
 
 ## Technical Details
 ### Algorithms
@@ -85,7 +84,7 @@ The **WGUPS Routing Program** is a comprehensive solution for optimizing package
 - **Greedy Algorithm**: $O(n^2)$ for nested iterations over delivery points.
 - **Hash Table Operations**: Average-case $O(1)$; worst-case $O(n)$ for high collision scenarios.
 
----
+
 
 ## Educational Insights
 ### 1. Greedy Algorithm for Routing
@@ -152,7 +151,7 @@ def print_success(message):
 #### Explanation:
 - Provides ANSI color codes for console output, improving readability and user experience.
 
----
+
 
 ## Examples
 ### Delivery Simulation
@@ -171,7 +170,7 @@ All packages delivered successfully.
 ```
 
 
----
+
 
 ## Future Enhancements
 - Implement **Dijkstra’s Algorithm** for shortest path routing.
@@ -180,12 +179,12 @@ All packages delivered successfully.
 - Modularize the codebase for easier updates and maintenance.
 - Explore advanced data structures like **graphs** for enhanced delivery modeling.
 
----
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+
 
 ## Acknowledgments
 - **WGU Faculty**: For their guidance and resources.
